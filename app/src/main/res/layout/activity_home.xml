@@ -28,7 +28,7 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:src="@drawable/ic_arrow_back_black_24dp" />
+            android:src="@drawable/back" />
 
         <ImageView
             android:id="@+id/number"
@@ -43,7 +43,7 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:src="@drawable/ic_arrow_forward_black_24dp" />
+            android:src="@drawable/nextt" />
     </LinearLayout>
 
     <ImageView
@@ -51,6 +51,6 @@
         android:layout_width="200dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
-        android:src="@drawable/ic_play_circle_outline_black_24dp" />
+        android:src="@drawable/play" />
 
 </LinearLayout>

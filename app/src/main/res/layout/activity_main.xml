@@ -39,7 +39,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="32dp"
         android:text="Start"
+        android:background="@color/colorAccent"
         tools:ignore="MissingConstraints"
+        android:textColor="#fff"
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="482dp" />
 

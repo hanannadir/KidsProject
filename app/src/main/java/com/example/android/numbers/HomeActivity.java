@@ -63,6 +63,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case 2:
                 text.setText("Two");
+
                 mediaPlayer = MediaPlayer.create(this, R.raw.two);
 
                 numbers.setImageResource(R.drawable.two);
